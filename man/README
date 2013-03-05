@@ -1,0 +1,3 @@
+Copy from Debian. Apply patch to remove Debinism.
+
+patch -p1 < *.diff

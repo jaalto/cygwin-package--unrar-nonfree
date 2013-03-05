@@ -1,0 +1,2 @@
+tag1: unrar
+  http://packages.debian.org/unstable/unrar pregexp:orig.tar.gz file:unrar-nonfree_4.0.3.orig.tar.gz new: x:
